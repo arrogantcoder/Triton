@@ -3,6 +3,9 @@
 **Triton** is a dynamic binary analysis library. It provides internal components that allow you to build your program analysis tools,
 automate reverse engineering, perform software verification or just emulate code.
 
+**NOTE**: This fork clarifies new directions on how to build Triton as their old instructions are outdated:
+https://github.com/arrogantcoder/Triton/blob/master/README_BUILD.md
+
 * Dynamic **symbolic** execution
 * Dynamic **taint** analysis
 * AST representation of the **x86**, **x86-64**, **ARM32**, **AArch64** and **RISC-V 32/64**  ISA semantic
